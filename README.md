@@ -4,3 +4,8 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/7727b674-5242-4987-b1ca-b231db324dc1" alt="Image" />
 </div>
+<h2 align="center">⚒️ Technologies used ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,github,vscode,pycharm" />   
+</div>
